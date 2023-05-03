@@ -15,7 +15,7 @@ nav li a{
 }
 nav a:hover{
 	color: #676867;
-	text-rdecoration:underline;
+	text-decoration:underline;
 }
 
 header{
@@ -70,4 +70,16 @@ footer{
 	background:url("imagens/bg.jpg");
 	padding:40px 0;
 	color: #ffffff;
+}
+form{
+	margin: 40px 0 q;
+}
+label{
+	font-size: 25px ;
+	width: 50%;
+}
+button{
+	display: inline-block;
+	width: 150px;
+	padding: 10px;
 }
